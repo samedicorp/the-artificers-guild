@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## The Artificers Guild
 
-You can use the [editor on GitHub](https://github.com/samedicorp/the-artificers-guild/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Artificers Guild is an organisation dedicated to the sharing of scripting knowledge in Dual Universe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We don't have a political motive, and aim to stay neutral in all conflicts.
 
-### Markdown
+We also understand that our members may have other political affiliations and be members of other organisations. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We realise that this means that it may not be possible for everyone to share all of their work.
 
-```markdown
-Syntax highlighted code block
+This is fine. We simply ask all members:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samedicorp/the-artificers-guild/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*1. Share Knowledge*: If you know something about scripting that you can share, please do so. If you can't share whole scripts, maybe you can share techniques and tips?
+*2. Help Each Other*: If a member of the guild needs help and you can give it, please do.
+*3. Be excellent to each other*: See also (1) and (2).

@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+remote-theme: hydecorp/hydejack
+
 name: The Artificers Guild
 author:
   name: Samedi
@@ -7,14 +8,5 @@ author:
 
 markdown: kramdown
 
-sass:
-    sass_dir: _sass
-
 exclude:
     [ _source/, Gemfile, Gemfile.lock, CNAME ]
-
-plugins:
-    [ jekyll-paginate ]
-
-paginate: 5
-paginate_path: "/blog/page:num"

@@ -10,7 +10,7 @@ sass:
     sass_dir: _sass
 
 exclude:
-    [ bootstrap-sass/, _source/, Gemfile, Gemfile.lock, CNAME ]
+    [ _source/, Gemfile, Gemfile.lock, CNAME ]
 
 plugins:
     [ jekyll-paginate ]

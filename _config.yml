@@ -1,15 +1,52 @@
-remote-theme: mmistakes/minimal-mistakes@4.22.0
 
-name: The Artificers Guild
+# Site settings
+title: 'The Artificers Guild'
+description: 'Dual Universe Scripting For The Masses'
+url: ''
+baseurl: '/tag'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+remote_theme: matthiaslischka/jekyll-uno
+
 author:
-  name: Samedi
+  name: 'Samedi'
+  #email: 
+  #twitter_username: 
+  #facebook_username: 
+  github_username: the-artificers-guild
+  #linkedin_username:  
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', '_source/', CNAME]
 
 excerpt_separator: <!--break-->
-
-markdown: kramdown
-
-plugins: 
-    [jekyll-include-cache]
-
-exclude:
-    [ _source/, Gemfile, Gemfile.lock, CNAME ]

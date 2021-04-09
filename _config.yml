@@ -1,8 +1,9 @@
-theme: minima
+theme: jekyll-theme-minimal
 name: The Artificers Guild
 author:
   name: Samedi
-excerpt_separator: <!--break-->
+
+  excerpt_separator: <!--break-->
 
 markdown: kramdown
 

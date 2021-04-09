@@ -1,6 +1,5 @@
 ---
 title: The Artificers Guild
-layout: page
 ---
 
 ## The Artificers Guild

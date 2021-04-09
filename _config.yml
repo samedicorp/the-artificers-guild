@@ -1,12 +1,15 @@
-remote-theme: hydecorp/hydejack
+remote-theme: mmistakes/minimal-mistakes@4.22.0
 
 name: The Artificers Guild
 author:
   name: Samedi
 
-  excerpt_separator: <!--break-->
+excerpt_separator: <!--break-->
 
 markdown: kramdown
+
+plugins: 
+    [jekyll-include-cache]
 
 exclude:
     [ _source/, Gemfile, Gemfile.lock, CNAME ]
